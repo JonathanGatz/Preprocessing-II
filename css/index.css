@@ -8,6 +8,9 @@
   align-items: center;
   width: 100%;
 }
+.imgr {
+  border-radius: 30rem;
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -258,4 +261,23 @@ html {
   background-color: white;
   margin-left: 10rem;
   margin-right: 10rem;
+}
+.img-content1 {
+  margin-left: 60rem;
+  background-color: thistle;
+}
+.containerMiddle1 p {
+  margin-right: 45rem;
+  float: left;
+}
+.containerMiddle2 p {
+  margin-left: 45rem;
+  float: right;
+}
+.containerMiddle2 h2 {
+  margin-left: 45rem;
+  background-color: teal;
+}
+.img-content {
+  margin-right: 60rem;
 }
