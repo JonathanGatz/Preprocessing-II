@@ -194,7 +194,6 @@ img {
   text-align: center;
   padding: 1.5rem;
   border-radius: 25%;
-  margin-left: 9rem;
   background-color: teal;
   color: white;
   text-decoration: none;
@@ -285,6 +284,14 @@ html {
 }
 .img-content {
   margin-right: 60rem;
-  margin-top: 40rem;
+  margin-top: 35rem;
   position: absolute;
+}
+.content-destination {
+  margin-top: 5rem;
+}
+.destination {
+  margin: auto;
+  padding: auto;
+  text-align: center;
 }
