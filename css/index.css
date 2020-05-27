@@ -259,25 +259,32 @@ img {
 }
 html {
   background-color: white;
-  margin-left: 10rem;
-  margin-right: 10rem;
+  margin-left: 15rem;
+  margin-right: 15rem;
 }
 .img-content1 {
-  margin-left: 60rem;
+  margin-left: 40rem;
   background-color: thistle;
+  position: absolute;
+}
+.containerMiddle1 h2 {
+  margin-top: 10rem;
 }
 .containerMiddle1 p {
   margin-right: 45rem;
+  align-items: center;
   float: left;
 }
 .containerMiddle2 p {
   margin-left: 45rem;
-  float: right;
+  margin-bottom: 15rem;
 }
 .containerMiddle2 h2 {
   margin-left: 45rem;
-  background-color: teal;
+  padding-top: 40rem;
 }
 .img-content {
   margin-right: 60rem;
+  margin-top: 40rem;
+  position: absolute;
 }
